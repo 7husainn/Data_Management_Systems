@@ -1,6 +1,6 @@
 # Data_Management_Systems
 
-Repository Description
+
 This repository contains the group project for the Data Management Systems (SMM695) module as part of the MSc Business Analytics program. The project focuses on the effective management, processing, and analysis of data from Decentralized Autonomous Organizations (DAOs) using MongoDB and various data processing techniques. The repository documents the complete workflow, from data ingestion and cleaning to advanced analysis using Natural Language Processing (NLP) techniques.
 
 Project Overview: DAO Data Management and Analysis
